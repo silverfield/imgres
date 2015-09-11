@@ -22,7 +22,7 @@ ferrard@Philadel:~/c/pics$ imgres -crl "jpg|png" 800
 ['-crl', 'jpg|png', '800']
 Building list of files...
 
-***********************************************************************************************
+***************************************************************************
 Processing folder: .
 Going to resize following images to have the greater of dimensions <= 800
 	1.) ./10.JPG: 768 x 1024
@@ -47,7 +47,7 @@ Do you really want to resize listed images? [y]|n:
 	9/10.) resizing ./03.JPG
 	10/10.) resizing ./07.JPG
 
-***********************************************************************************************
+***************************************************************************
 Processing folder: ./selection
 Going to resize following images to have the greater of dimensions <= 800
 	1.) ./selection/01.JPG: 1000 x 750
