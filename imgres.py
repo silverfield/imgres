@@ -2,6 +2,8 @@
 
 """A script for resizing images to specified maximum dimensions
 
+Uses "convert" utility of the ImageMagick suite of tools, which thus must be installed
+
 @author: Frantisek Hajnovic
 @email: ferohajnovic@gmail.com
 """
